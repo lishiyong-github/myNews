@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Root</key>
+	<dict>
+		<key>ActivityDetail</key>
+		<array>
+			<string>http://web.toutiao.com/a3561077758/</string>
+			<string>http://web.toutiao.com/a3558114744/?hideeverything=1</string>
+			<string>http://s0.pstatp.com/static/activity/20140920.html</string>
+			<string>http://web.toutiao.com/a3539832159/</string>
+			<string>http://s0.pstatp.com/static/article/zhongqiuhuodong.html</string>
+			<string>http://web.toutiao.com/a3499069814/</string>
+			<string>http://web.toutiao.com/a3392013258/</string>
+			<string>http://web.toutiao.com/a3337215719/</string>
+			<string>http://web.toutiao.com/a3182140448/</string>
+			<string>http://web.toutiao.com/a3168447843/</string>
+			<string>http://web.toutiao.com/a3148831945/</string>
+			<string>http://web.toutiao.com/a3126190205/</string>
+			<string>http://s0.pstatp.com/static/activity/20140223.html?ver=0224</string>
+			<string>http://api.snssdk.com/2/wap/home2014/</string>
+		</array>
+	</dict>
+</dict>
+</plist>

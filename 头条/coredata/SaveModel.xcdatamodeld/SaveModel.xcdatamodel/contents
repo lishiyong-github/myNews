@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model name="" userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="858" systemVersion="10K549" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Article" representedClassName="Article">
+        <attribute name="hasImage" optional="YES" attributeType="String"/>
+        <attribute name="imageUrl" optional="YES" attributeType="String"/>
+        <attribute name="shareUrl" optional="YES" attributeType="String"/>
+        <attribute name="source" optional="YES" attributeType="String"/>
+        <attribute name="title" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="Essay" representedClassName="Essay">
+        <attribute name="content" optional="YES" attributeType="String"/>
+        <attribute name="shareUrl" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="Article" positionX="160" positionY="192" width="128" height="120"/>
+        <element name="Essay" positionX="160" positionY="192" width="128" height="75"/>
+    </elements>
+</model>

@@ -22,6 +22,27 @@
     NSLog(@"%@:",NSHomeDirectory());
     
     
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     Reachability *reach = [Reachability reachabilityWithHostName:@"www.baidu.com"];
     switch ([reach currentReachabilityStatus]) {
         case NotReachable:

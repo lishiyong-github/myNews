@@ -19,7 +19,7 @@
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     // Override point for customization after application launch.
 //    self.window.backgroundColor =  [UIColor colorWithRed:0.2235 green:0.2235 blue:0.2235 alpha:1];
-    NSLog(@"%@:",NSHomeDirectory());NSLog(@"%@:",NSHomeDirectory());NSLog(@"%@:",NSHomeDirectory());NSLog(@"%@:",NSHomeDirectory());NSLog(@"%@:",NSHomeDirectory());NSLog(@"%@:",NSHomeDirectory());NSLog(@"%@:",NSHomeDirectory());NSLog(@"%@:",NSHomeDirectory());NSLog(@"%@:",NSHomeDirectory());NSLog(@"%@:",NSHomeDirectory());
+    NSLog(@"%@:",NSHomeDirectory());
     
     
     Reachability *reach = [Reachability reachabilityWithHostName:@"www.baidu.com"];
